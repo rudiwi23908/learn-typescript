@@ -1,0 +1,5 @@
+tsc --init = bauat file ts config
+"rootDir" = lokasi file pusat typescript
+"outDir" = lokasi file compile menjadi js
+tsc = command untuk compile file .ts
+tsc --watch = untuk terus ngecompile file .ts
